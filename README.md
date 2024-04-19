@@ -1,7 +1,7 @@
 # python-api-challenge
 
 
-# PLEASE NOTE that my 2 scripts (VacationPy.ipynb and WeatherPy.ipynb) can be found in the folder entitled "WeatherPy_and_VacationPy"
+### PLEASE NOTE that my 2 scripts (VacationPy.ipynb and WeatherPy.ipynb) can be found in the folder entitled "WeatherPy_and_VacationPy"
 
 
 INSTRUCTIONS: 
